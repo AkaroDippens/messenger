@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">messanger</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="user_list">User List</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="chat">Chats</string>
+</resources>
